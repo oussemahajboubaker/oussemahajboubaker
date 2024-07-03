@@ -1,11 +1,15 @@
   👀 ABOUT ME :  
 
   👋 Hi, I’m Oussema Haj Boubaker Rais  
+  
   🚀 Passionate about Technology and Lifelong Learning
+  
   😄 Welcome to my github Account , Feel Free 
 
   a student specializing in development. In addition to my studies, I work on developing and maintaining web applications.
+  
   I have experience in a project that required both design and development skills. I'm enthusiastic about advancing my development career, 
+  
   contributing to meaningful projects, and keeping up with industry trends.
 
 ![xx](https://github.com/oussemahajboubaker/oussemahajboubaker/assets/147174486/24d8a6e0-80b2-4057-a70c-1f48e97a41c1)
