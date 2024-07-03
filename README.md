@@ -8,6 +8,9 @@
   I have experience in a project that required both design and development skills. I'm enthusiastic about advancing my development career, 
   contributing to meaningful projects, and keeping up with industry trends.
 
+![xx](https://github.com/oussemahajboubaker/oussemahajboubaker/assets/147174486/24d8a6e0-80b2-4057-a70c-1f48e97a41c1)
+
+
 <!---
 oussemahajboubaker/oussemahajboubaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
