@@ -12,7 +12,14 @@
   
   contributing to meaningful projects, and keeping up with industry trends.
 
-![xx](https://github.com/oussemahajboubaker/oussemahajboubaker/assets/147174486/24d8a6e0-80b2-4057-a70c-1f48e97a41c1)
+
+  
+
+![xx](https://github.com/oussemahajboubaker/oussemahajboubaker/assets/147174486/ce71bc7d-7883-4d82-9148-8e11d8f7260e)
+
+
+
+
 
 
 <!---
