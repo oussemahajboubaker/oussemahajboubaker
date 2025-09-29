@@ -1,89 +1,112 @@
-<div align="center">
+ <h1>👋 Hey, I'm <strong>Mohamed Amine Bouali</strong></h1>
+  <h3>Full Stack Developer • Building the future, one commit at a time</h3>
 
-  <h1>👋 Hi there, I'm Mohamed Amine Bouali! 😄</h1>
-  <h2>Full Stack Developer</h2>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Web+%26+Mobile+Development;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Spring+Boot+%7C+PostgreSQL+%7C+MongoDB;AI+Enthusiast+%7C+DevTools+Expert;Always+learning+%26+shipping+code" alt="Typing SVG" />
 
-  <!-- ───────────────────────────── About ───────────────────────────── -->
+  <!-- Contact Badges -->
+  <p>
+    <a href="mailto:mohamed.amine.bouali@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/mohamed-amine-bouali"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://mohamedaminebouali.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-9333ea?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  </p>
+
+</div>
+
+---
+
 ### ✨ About Me
 
-- 💼 Currently working as a Software Engineer intern at Bull IT Service pétroliers.
-- 🌱 Focused on Web & Mobile App Development.
-- 💻 Proficient in Full-Stack Development, AI, and DevTools.
-- 📚 Always learning and improving my skills.
-- 🌐 [Profile Views](#)
+- 💼 **Software Engineer Intern** @ Bull IT Service pétroliers
+- 🌱 **Focus**: Web & Mobile App Development  
+- 💻 **Expertise**: Full-Stack Development, AI, and DevTools
+- 📚 **Philosophy**: Continuous learning and skill improvement
 
-### 📊 Profile Stats
-
-- **Profile Visits:** 1234
-
-<!-- ───────────────────────────── Tech Stack ───────────────────────────── -->
 ### 🛠️ Tech Stack
 
-#### Programming Languages
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="24" title="JavaScript" />
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="24" title="TypeScript" />
-<img src="https://cdn.simpleicons.org/java/007396" height="24" title="Java" />
-<img src="https://cdn.simpleicons.org/c/C3E2A5" height="24" title="C" />
-<img src="https://cdn.simpleicons.org/cpp/00599C" height="24" title="C++" />
+<div align="center">
 
-#### Frontend Development
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="24" title="React" />
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="24" title="Next.js" />
-<img src="https://cdn.simpleicons.org/angular/DD0031" height="24" title="Angular" />
+**Programming Languages**  
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" title="JavaScript" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" title="TypeScript" />
+<img src="https://cdn.simpleicons.org/java/007396" height="28" title="Java" />
+<img src="https://cdn.simpleicons.org/c/00599C" height="28" title="C" />
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="28" title="C++" />
 
-#### Backend Development
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24" title="Node.js" />
-<img src="https://cdn.simpleicons.org/express/000000" height="24" title="Express.js" />
-<img src="https://cdn.simpleicons.org/spring/6DB33F" height="24" title="Spring Boot" />
+**Frontend Development**  
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="28" title="React" />
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="28" title="Next.js" />
+<img src="https://cdn.simpleicons.org/angular/DD0031" height="28" title="Angular" />
 
-#### Databases
-<img src="https://cdn.simpleicons.org/mongodb/47A248" height="24" title="MongoDB" />
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24" title="PostgreSQL" />
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="24" title="MySQL" />
+**Backend Development**  
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="28" title="Node.js" />
+<img src="https://cdn.simpleicons.org/express/000000" height="28" title="Express.js" />
+<img src="https://cdn.simpleicons.org/spring/6DB33F" height="28" title="Spring Boot" />
 
-#### DevTools
-<img src="https://cdn.simpleicons.org/git/F05032" height="24" title="Git" />
-<img src="https://cdn.simpleicons.org/github/181717" height="24" title="GitHub" />
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="24" title="Docker" />
-<img src="https://cdn.simpleicons.org/vscode/007ACC" height="24" title="VS Code" />
+**Databases**  
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="28" title="MongoDB" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28" title="PostgreSQL" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="28" title="MySQL" />
 
-<!-- ───────────────────────────── GitHub Stats ───────────────────────────── -->
+**DevTools**  
+<img src="https://cdn.simpleicons.org/git/F05032" height="28" title="Git" />
+<img src="https://cdn.simpleicons.org/github/181717" height="28" title="GitHub" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="28" title="Docker" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+- **Inventory Management System** ⭐ — Full-stack CRUD application
+- **Technical Test-Task** ⭐ — Clean architecture implementation  
+- **GODS AI Challenge** ⭐ — AI/ML project showcase
+- **ab-higher-level-programming** ⭐ — Advanced programming concepts
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohamedaminebouali&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=mohamedaminebouali&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamedaminebouali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=mohamedaminebouali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminebouali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-#### Mohamed Amine Bouali's GitHub Stats
-- Total Commits: 770
-- Total PRs: 19
-- Total Issues: 0
-- Contributions (last year): 0
+---
 
-#### Most Used Languages
-- JavaScript: 46.1%
-- TypeScript: 24.3%
-- Python: 12.8%
-- Java: 8.7%
-- C++: 2.5%
+### 📈 Dynamic Stats
 
-#### Top Contributed Repo
-- **Inventory Management System** ⭐
+<div align="center">
 
-#### Mohamed Amine Bouali's GitHub Contributor Stats
-- Inventory Management System ⭐
-- Technical Test-Task ⭐
-- GODS AI Challenge ⭐
-- ab-higher-level-programming ⭐
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mohamedaminebouali&theme=tokyonight&hide_border=true&area=true)
 
-<!-- ───────────────────────────── Contact ───────────────────────────── -->
-### 🤝 Connect with Me
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedaminebouali&label=Profile%20Views&color=0e75b6&style=flat)
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG)
-- [Email](mailto:YOUR_EMAIL_HERE)
-- [Portfolio](https://YOUR-PORTFOLIO-URL)
-
-If you like my work, a ⭐ would mean the world to me!
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamedaminebouali&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-amine-bouali">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohamed.amine.bouali@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mohamedaminebouali.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-9333ea?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>If you like my work, a ⭐ would mean the world to me!</sub>
+</div>
+  
