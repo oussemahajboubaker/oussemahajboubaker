@@ -1,94 +1,102 @@
 <div align="center">
-  <h1>👋 Salut, je suis <strong>Oussema Rais</strong></h1>
-  <p>Étudiant développeur • Passionné de technologie • Apprentissage continu</p>
-  
-  <!-- Badges -->
-  <a href="oussama.hajboubaker@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&duration=2500&color=10B981&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I'm+Oussema+Haj+Boubaker+Rais;Web+Developer+%7C+Full‑Stack+Learner;Clean+UI%2C+solid+code%2C+constant+learning." alt="Typing SVG" />
+
+  <h1>🧑‍💻 Oussema Haj Boubaker Rais</h1>
+  <p>Web Developer • UI/UX friendly • Always learning</p>
+
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/oussema-rais-461286280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Oussema%20Haj%20Boubaker-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/oussemahajboubaker" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@oussemahajboubaker-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://YOUR-PORTFOLIO-URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</div>
 
-<br/>
+  !-- ───────────────────────────── About ───────────────────────────── -->
+### ✨ About Me
 
-## 🚀 À propos de moi
-- Étudiant spécialisé en **développement** (web apps modernes).
-- Expérience en **design UI/UX** et **développement full‑stack**.
-- J’aime créer des projets utiles, propres et bien organisés.
-- Toujours curieux des **nouvelles tendances** et bonnes pratiques.
+ Student developer building and maintaining **modern web apps**.
+ Comfortable with **UI/UX design** and **full‑stack** workflows.
+ I value **clean code**, **clarity**, and **consistent delivery**.
+ Currently sharpening **React/Next.js**, **Node.js**, testing, and performance.
 
-<br/>
+ <!-- ───────────────────────────── Tech ───────────────────────────── -->
+### 🧰 Tech Stack
 
-## 💻 Compétences techniques
+```bash
+$ stack --show
+
+Frontend         : HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, Next.js
+Backend          : Node.js, Express.js
+Databases        : MongoDB, PostgreSQL
+Programming Lang : JavaScript/TypeScript, Python
+Tooling          : Git, GitHub, VS Code, Postman, Figma, Docker (basics)
+OS               : Windows, Ubuntu
+```
+
 <div>
-  <!-- Langages -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="26" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="26" title="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="26" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="26" title="TypeScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="26" title="Python" />
-  <!-- Front -->
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="26" title="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="26" title="Next.js" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="26" title="Tailwind CSS" />
-  <!-- Back -->
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="26" title="Node.js" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="26" title="Express" />
-  <!-- DB -->
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="26" title="MongoDB" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="26" title="PostgreSQL" />
-  <!-- Outils -->
-  <img src="https://cdn.simpleicons.org/git/F05032" height="26" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="26" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="26" title="Figma" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="26" title="VS Code" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="24" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="24" title="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="24" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="24" title="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="24" title="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="24" title="Next.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="24" title="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="24" title="Express" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="24" title="MongoDB" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="24" title="Python" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="24" title="Git" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="24" title="Figma" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="24" title="VS Code" />
 </div>
 
-<br/>
+---
 
-## 🧠 Ce que je fais
-- **Frontend**: interfaces modernes, accessibles et performantes
-- **Backend**: API REST, auth, bonnes pratiques
-- **Design**: maquettes Figma, design system simple
-- **Qualité**: code lisible, composants réutilisables, organisation claire
+<!-- ───────────────────────────── Projects ───────────────────────────── -->
+### 🚀 Featured Projects
 
-<br/>
+- Portfolio Site – clean UI, responsive, Next.js + TailwindCSS. [`Demo`](https://YOUR-PORTFOLIO-URL)
+- Full‑stack CRUD app – Node.js/Express + MongoDB, auth + dashboard. [`Repo`](https://github.com/oussemahajboubaker)
+- UI Components library – reusable React components. [`Repo`](https://github.com/oussemahajboubaker)
 
-## 🔭 En ce moment
-- Approfondissement **React/Next.js** et **Node.js**
-- Optimisation **performances**, **tests** et **SEO**
+Tip: replace the links above with your real demos/repos.
 
-<br/>
+---
 
-## 📌 Projets récents
-- À venir: sélection de projets avec démos et captures.
-- Tu peux ouvrir une issue si tu as des idées/améliorations !
+<!-- ───────────────────────────── Stats ───────────────────────────── -->
+### 📊 GitHub Stats
 
-<br/>
-
-## 📈 Statistiques
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussemahajboubaker&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oussemahajboubaker&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemahajboubaker&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=oussemahajboubaker&show_icons=true&theme=merko&hide_border=true" alt="stats"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=oussemahajboubaker&theme=merko&hide_border=true" alt="streak"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemahajboubaker&layout=compact&theme=merko&hide_border=true" alt="top languages"/>
 </div>
 
-<br/>
+---
 
-## 🤝 Me contacter
-- LinkedIn: [Oussema Haj Boubaker](https://www.linkedin.com/in/oussema-rais-461286280/)
-- Email: `ton.email@exemple.com`
-- Si tu aimes un projet, laisse une ⭐
+<!-- ───────────────────────────── Contact ───────────────────────────── -->
+### 🤝 Connect
 
-<br/>
+- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN_SLUG](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG)
+- Email: `YOUR_EMAIL_HERE`
+- Portfolio: `https://YOUR-PORTFOLIO-URL`
+
+If you like something here, a ⭐ always makes my day.
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oussemahajboubaker&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=oussemahajboubaker&label=Profile%20Views&color=10b981&style=flat" alt="views"/>
   <br/>
-  <sub>Merci de ta visite 🙌</sub>
+  <sub>Built with focus, curiosity, and a bit of caffeine.</sub>
 </div>
+
+</div>
+
+
+
