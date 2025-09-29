@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>👋 Salut, je suis <strong>Oussema Haj Boubaker Rais</strong></h1>
+  <h1>👋 Salut, je suis <strong>Oussema Rais</strong></h1>
   <p>Étudiant développeur • Passionné de technologie • Apprentissage continu</p>
   
   <!-- Badges -->
-  <a href="mailto:ton.email@exemple.com">
+  <a href="oussama.hajboubaker@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/oussema-haj-boubaker" target="_blank">
+  <a href="https://www.linkedin.com/in/oussema-rais-461286280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Oussema%20Haj%20Boubaker-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/oussemahajboubaker" target="_blank">
