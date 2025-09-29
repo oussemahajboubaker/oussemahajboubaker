@@ -81,7 +81,7 @@
 <br/>
 
 ## 🤝 Me contacter
-- LinkedIn: [Oussema Haj Boubaker](https://www.linkedin.com/in/oussema-haj-boubaker)
+- LinkedIn: [Oussema Haj Boubaker](https://www.linkedin.com/in/oussema-rais-461286280/)
 - Email: `ton.email@exemple.com`
 - Si tu aimes un projet, laisse une ⭐
 
