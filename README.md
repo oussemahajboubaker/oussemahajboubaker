@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats:
 
-### Mohamed Amine Bouali's GitHub Stats
+### Oussema Rais's GitHub Stats
 - **Total Stars Earned:** 1
 - **Total Commits:** 770
 - **Total PRs:** 19
