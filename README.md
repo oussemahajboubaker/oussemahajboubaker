@@ -90,3 +90,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussema-rais-461286280/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussama.hajboubaker@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Follow-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TON_UTILISATEUR)
