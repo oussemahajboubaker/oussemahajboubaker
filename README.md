@@ -68,13 +68,12 @@
 
 ### Most Used Languages
 - **JavaScript:** 46.47%
-- **TypeScript:** 30.60%
-- **Python:** 2.41%
+- **Python:** 52.41%
 - **Java:** 1.88%
 - **C++:** 2.20%
 - **Angular:** 1.26%
-- **HTML:** 0.66%
-- **CSS:** 0.66%
+- **HTML:** 7.66%
+- **CSS:** 8.66%
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oussemahajboubaker&layout=compact&theme=tokyonight&hide_border=true)
 
