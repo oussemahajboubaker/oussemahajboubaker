@@ -57,14 +57,14 @@
 - **Total Issues:** 0
 - **Contributed to (last year):** 0
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaminebouali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oussemahajboubaker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### Contribution Streak
 - **Total Contributions:** 844 (Oct 19, 2023 - Present)
 - **Current Streak:** 0 (Sep 29)
 - **Longest Streak:** 9 (Apr 11 - Apr 21)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohamedaminebouali&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=oussemahajboubaker&theme=tokyonight&hide_border=true)
 
 ### Most Used Languages
 - **JavaScript:** 46.47%
@@ -76,18 +76,18 @@
 - **HTML:** 0.66%
 - **CSS:** 0.66%
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminebouali&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oussemahajboubaker&layout=compact&theme=tokyonight&hide_border=true)
 
 ### ⭐ Top Contributed Repo
 
-### Mohamed Amine Bouali's GitHub Contributor Stats
-- ✅ **Inventory Management System**
-- ✅ **CASANOVAMO**
-- ✅ **technical-test-oraily-tethered**
+### Oussema Rais's GitHub Contributor Stats
+- ✅ **Yed_Wa7da**
+- ✅ **AI_Machine_Learning_Deep_Learning**
 - ✅ **GODS_AI_CHALLENGE**
-- ✅ **als-higher-level-programming**
+
+
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-bouali)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.amine.bouali@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussema-rais-461286280/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussama.hajboubaker@gmail.com)
